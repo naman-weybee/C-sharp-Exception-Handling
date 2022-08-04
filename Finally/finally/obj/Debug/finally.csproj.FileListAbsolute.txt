@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\finally\finally\bin\Debug\@finally.exe.config
+D:\.NET\C# Intermediate Concepts\finally\finally\bin\Debug\@finally.exe
+D:\.NET\C# Intermediate Concepts\finally\finally\bin\Debug\@finally.pdb
+D:\.NET\C# Intermediate Concepts\finally\finally\obj\Debug\finally.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\finally\finally\obj\Debug\@finally.exe
+D:\.NET\C# Intermediate Concepts\finally\finally\obj\Debug\@finally.pdb
+D:\.NET\C# Intermediate Concepts\finally\finally\obj\Debug\finally.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\Try and Catch\Try_and_Catch\bin\Debug\Try_and_Catch.exe.config
+D:\.NET\C# Intermediate Concepts\Try and Catch\Try_and_Catch\bin\Debug\Try_and_Catch.exe
+D:\.NET\C# Intermediate Concepts\Try and Catch\Try_and_Catch\bin\Debug\Try_and_Catch.pdb
+D:\.NET\C# Intermediate Concepts\Try and Catch\Try_and_Catch\obj\Debug\Try_and_Catch.csproj.AssemblyReference.cache
+D:\.NET\C# Intermediate Concepts\Try and Catch\Try_and_Catch\obj\Debug\Try_and_Catch.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\Try and Catch\Try_and_Catch\obj\Debug\Try_and_Catch.exe
+D:\.NET\C# Intermediate Concepts\Try and Catch\Try_and_Catch\obj\Debug\Try_and_Catch.pdb

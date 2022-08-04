@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\Checked and Unchecked\Checked_and_Unchecked\bin\Debug\Checked_and_Unchecked.exe.config
+D:\.NET\C# Intermediate Concepts\Checked and Unchecked\Checked_and_Unchecked\bin\Debug\Checked_and_Unchecked.exe
+D:\.NET\C# Intermediate Concepts\Checked and Unchecked\Checked_and_Unchecked\bin\Debug\Checked_and_Unchecked.pdb
+D:\.NET\C# Intermediate Concepts\Checked and Unchecked\Checked_and_Unchecked\obj\Debug\Checked_and_Unchecked.csproj.AssemblyReference.cache
+D:\.NET\C# Intermediate Concepts\Checked and Unchecked\Checked_and_Unchecked\obj\Debug\Checked_and_Unchecked.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\Checked and Unchecked\Checked_and_Unchecked\obj\Debug\Checked_and_Unchecked.exe
+D:\.NET\C# Intermediate Concepts\Checked and Unchecked\Checked_and_Unchecked\obj\Debug\Checked_and_Unchecked.pdb

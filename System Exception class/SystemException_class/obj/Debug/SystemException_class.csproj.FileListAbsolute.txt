@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\SystemException class\SystemException_class\bin\Debug\SystemException_class.exe.config
+D:\.NET\C# Intermediate Concepts\SystemException class\SystemException_class\bin\Debug\SystemException_class.exe
+D:\.NET\C# Intermediate Concepts\SystemException class\SystemException_class\bin\Debug\SystemException_class.pdb
+D:\.NET\C# Intermediate Concepts\SystemException class\SystemException_class\obj\Debug\SystemException_class.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\SystemException class\SystemException_class\obj\Debug\SystemException_class.exe
+D:\.NET\C# Intermediate Concepts\SystemException class\SystemException_class\obj\Debug\SystemException_class.pdb
+D:\.NET\C# Intermediate Concepts\SystemException class\SystemException_class\obj\Debug\SystemException_class.csproj.AssemblyReference.cache

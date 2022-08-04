@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\User Defined Exceptions\User_Defined_Exceptions\bin\Debug\User_Defined_Exceptions.exe.config
+D:\.NET\C# Intermediate Concepts\User Defined Exceptions\User_Defined_Exceptions\bin\Debug\User_Defined_Exceptions.exe
+D:\.NET\C# Intermediate Concepts\User Defined Exceptions\User_Defined_Exceptions\bin\Debug\User_Defined_Exceptions.pdb
+D:\.NET\C# Intermediate Concepts\User Defined Exceptions\User_Defined_Exceptions\obj\Debug\User_Defined_Exceptions.csproj.AssemblyReference.cache
+D:\.NET\C# Intermediate Concepts\User Defined Exceptions\User_Defined_Exceptions\obj\Debug\User_Defined_Exceptions.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\User Defined Exceptions\User_Defined_Exceptions\obj\Debug\User_Defined_Exceptions.exe
+D:\.NET\C# Intermediate Concepts\User Defined Exceptions\User_Defined_Exceptions\obj\Debug\User_Defined_Exceptions.pdb
